@@ -1,0 +1,3 @@
+/* Main CSS entry point for Tailwind v4 */
+@import "./styles/app.css";
+@import "./styles/globals.css";
